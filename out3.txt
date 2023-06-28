@@ -1,0 +1,5 @@
+make -C src build BUILDDIR=/home/scr2448/msccl/build
+make[1]: Entering directory '/home/scr2448/msccl/src'
+make[2]: Entering directory '/home/scr2448/msccl/src/collectives/device'
+make[2]: Leaving directory '/home/scr2448/msccl/src/collectives/device'
+make[1]: Leaving directory '/home/scr2448/msccl/src'
